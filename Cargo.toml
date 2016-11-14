@@ -1,0 +1,7 @@
+[package]
+name = "broken_dep"
+version = "0.1.0"
+authors = ["Stu Small <stuart.small@threat-x.com>"]
+
+[dependencies]
+openssl-sys = "> 0.7.0"
